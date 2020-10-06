@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 one two day
+=======
+one three day
+>>>>>>> 255d9914f8b7ab3798bcbf23a6fe1bd1c2a63057
 
